@@ -1,4 +1,4 @@
-# Whiteboard Practice Set (System / ML Interview) — Full English Edition
+# Whiteboard Practice Set (System / ML Interview)
 
 > **Goal**: Be able to write a **correct baseline** for each problem on a whiteboard in **10–15 minutes**, and clearly explain the complexity and possible optimizations.
 >
@@ -1382,3 +1382,4 @@ def query_tfidf(query, tfidf_matrix, idf, top_k=3):
 > - "The brute force would be O(n²), but we can do O(n) using ___."
 > - "In production, I would use ___, but for this whiteboard I'll keep it simple."
 > - "Let me trace through a small example to verify."
+
